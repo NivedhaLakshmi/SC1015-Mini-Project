@@ -57,8 +57,8 @@ Based on the analysis, the following features were identified as important for e
 | Gen X| Online Boarding, In-flight Wifi Service,(Flight Distance) |
 | Boomer I | Class, Leg Room Service, In-flight Wifi Service, Online Boarding (Flight Distance) |
 | Boomer II | Type of Travel, In-flight Wifi Service, Online Boarding (Flight Distance) |
-| Post War | In-flight Wifi Service, Leg room (Flight Distance) |
-| WWII | Leg room, In-flight Wifi Service (Flight Distance) |
+| Post War | In-flight Wifi Service, Leg Room Service (Flight Distance) |
+| WWII | Leg Ro0m Service, In-flight Wifi Service (Flight Distance) |
 
 While flight distance appears to have a significant impact on passenger satisfaction levels, it is important to note that this is not a feature that the airline can improve upon, as it is not a service that is directly provided by the airline company.
 
