@@ -73,7 +73,7 @@ Through this project, our group has gained valuable knowledge and skills. In the
 ## Acknowledgements
 We want to thank our  lab teaching assistant Prof Manoj for continuous support and help throughout the project.
 
-## Reference
+## References
 Beresford Research. (n.d.). Age Range by Generation. Available at: https://www.beresfordresearch.com/age-range-by-generation/ (Accessed: 23-Apr-2023).
 
 Izen AI. (2021). Feature Selection – Filter Method, Wrapper Method, and Embedded Method. Available at: https://www.izen.ai/blog-posts/feature-selection-filter-method-wrapper-method-and-embedded-method/ (Accessed: 23-Apr-2023).
