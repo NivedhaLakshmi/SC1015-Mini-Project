@@ -71,7 +71,7 @@ Through this project, our group has gained valuable knowledge and skills. In the
 
 
 ## Acknowledgements
-We want to thank our  lab teaching assistant Prof Manoj for continuous support and help throughout the project.
+We want to thank our professor, Smitha K G and our lab teaching assistant Prof Manoj Shakya for continuous support and help throughout the project.
 
 ## References
 Beresford Research. (n.d.). Age Range by Generation. Available at: https://www.beresfordresearch.com/age-range-by-generation/ (Accessed: 23-Apr-2023).
