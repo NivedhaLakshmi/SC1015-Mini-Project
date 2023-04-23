@@ -64,7 +64,7 @@ Based on the analysis, the following features were identified as important for e
 
 ## Conclusion
 
-In conclusion, airlines can improve flight satisfaction by focusing on providing efficient online boarding and WiFi services, especially for passengers aged between 26 to 41 years. Additionally, airlines should also consider other factors such as flight distance, class, leg room, and arrival delay to enhance the flight experience for different age groups.
+In conclusion, airlines can improve flight satisfaction by focusing on providing efficient online boarding and WiFi services as this is a crucial factor for all generations.. Additionally, airlines should also consider other factors such as flight distance, class, leg room, and arrival delay to enhance the flight experience for different age groups.
 
 
 Through this project, our group has gained valuable knowledge and skills. In the EDA phase, we learned how to use the FacetGrid function for efficient visualization and comparison of multiple subsets of data within a single plot. In the ML phase, we applied the Chi square and wrapper methods for feature importance and utilized the Lgbmclassifier to produce more accurate machine learning outcomes. Furthermore, we conducted research and implemented the Lazypredict tool to calculate accuracy before selecting the best model for each group, resulting in improved predictive performance.
