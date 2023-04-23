@@ -52,8 +52,8 @@ Based on the analysis, the following features were identified as important for e
 
 | Generation | Key Services |
 | -------- | -------- |
-| Gen Z | Online Boarding, In-flight Wifi Service, (Flight Distance) |
-| Millennials | Online Boarding, In-flight Wifi Service,(Flight Distance and Arrival Delay) |
+| Gen Z | Online Boarding, In-flight Wifi Service (Flight Distance) |
+| Millennials | Online Boarding, In-flight Wifi Service, Arrival Delay (Flight Distance) |
 | Gen X| Online Boarding, In-flight Wifi Service,(Flight Distance) |
 | Boomer I | Class, Leg Room Service, In-flight Wifi Service, Online Boarding (Flight Distance) |
 | Boomer II | Type of Travel, In-flight Wifi Service, Online Boarding (Flight Distance) |
