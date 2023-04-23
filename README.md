@@ -35,7 +35,15 @@ After analyzing satisfaction ratings across various categories, our findings sug
 
 
 ## Machine Learning
+### DecisionTree
+Despite the fact that LazyPredict has shown that DecisionTreeClassifier has lower accuracy compared to other models across all age groups, we have opted to utilize it as our initial prediction model. This decision was made because DecisionTreeClassifier is a relatively straightforward and easy-to-grasp concept that we learned in our labs, and it is also highly interpretable. In fact, decision trees can be graphically represented, making it easier to visualize and understand the decision-making process of the model.
 
+![decisionTree](https://user-images.githubusercontent.com/51477400/233843063-9aec1632-0c50-4e04-8882-26a1b1616bce.png)
+
+### Accuracy Comparison
+![accuracyComparison](https://user-images.githubusercontent.com/51477400/233843122-ec76c689-0fc3-463d-a8d9-e2627a863d87.png)
+
+### Feature Importance
 The analysis of different machine learning models revealed that online boarding and WiFi services significantly influence flight satisfaction. For the decision tree model, online boarding and WiFi were identified as the most important variables, while for the LGBMclassifier model, flight distance and WiFi were the significant factors. Similarly, the Random Forest model also identified online boarding and WiFi as the most important features.
 
 The analysis also revealed that passengers aged between 26 to 41 years consider online boarding and WiFi services as crucial factors for their flight satisfaction. However, the importance of other features varied across different age groups. For example, passengers aged between 42-57 years consider class, leg room, WiFi, online boarding, and flight distance important. In contrast, passengers aged between 68-76 years consider WiFi, leg room, and flight distance as crucial factors.
