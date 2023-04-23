@@ -74,3 +74,12 @@ Through this project, our group has gained valuable knowledge and skills. In the
 We want to thank our  lab teaching assistant Prof Manoj for continuous support and help throughout the project.
 
 ## Reference
+Beresford Research. (n.d.). Age Range by Generation. Available at: https://www.beresfordresearch.com/age-range-by-generation/ (Accessed: 23-Apr-2023).
+Izen AI. (2021). Feature Selection – Filter Method, Wrapper Method, and Embedded Method. Available at: https://www.izen.ai/blog-posts/feature-selection-filter-method-wrapper-method-and-embedded-method/ (Accessed: 23-Apr-2023).
+Mysarahmad Bhat (2021). Airline Passenger Satisfaction Dataset. Kaggle. Available at: https://www.kaggle.com/datasets/mysarahmadbhat/airline-passenger-satisfaction (Accessed: 23-Apr-2023).
+Nugroho, A. (n.d.). Airline Passenger Satisfaction. GitHub. Available at: https://github.com/arienugroho050396/Airline-Passenger-Satisfaction/blob/main/Airline%20Passenger%20Satisfaction.ipynb (Accessed: 23-Apr-2023).
+Shanmuganathan, Y. (n.d.). Airline Passenger Satisfaction. GitHub. Available at: https://github.com/yogeshwaran-shanmuganathan/Airline-Passenger-Satisfaction/blob/master/Code/airline_passenger_satisfaction.ipynb (Accessed: 23-Apr-2023).
+Shukla, A. (2020, July 20). 10 Techniques to Deal with Class Imbalance in Machine Learning. Analytics Vidhya. Available at: https://www.analyticsvidhya.com/blog/2020/07/10-techniques-to-deal-with-class-imbalance-in-machine-learning/ (Accessed: 23-Apr-2023).
+
+
+
